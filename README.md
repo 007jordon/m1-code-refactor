@@ -19,8 +19,7 @@ $ git clone git@github.com:007jordon/m1-code-refactor.git
 ```
 * Once cloned, open code in VS Code
 * Open [index.html] in Default Browser
-
-* Insert video here
+* https://watch.screencastify.com/v/WePypuVyHAKuXqEsi9Vj
 
 ## Technology and References
 
