@@ -4,7 +4,7 @@
 1. [General Info](##general-info)
 2. [Contributors](##contributors)
 3. [Installation](##installation)
-4. 
+4. [Technology & References](##technology-and-references)
 5. [License & Copyright](##license-&-copyright)
 
 ## General Info
@@ -14,16 +14,28 @@ This week's challenge involves a very important aspect of web development: acces
 The main objective for this challenge is to view the structure of the HTML elements and see if these elements follow a logical structure independent of styling and positioning. If any of these elements are out of line, adjust them accordingly so this webpage meets acceibility standards, ie. accessible alt/heading attributes (in sequential order) and concise titling and or commenting.
 
 ## Installation
+```bash
+$ git clone git@github.com:007jordon/m1-code-refactor.git
 ```
-$ git clone https://example.com
-$ cd ../path/to/the/file
-$ npm install
-$ npm start
-```
+* Once cloned, open code in VS Code
+* Open [index.html] in Default Browser
+
+* Insert video here
+
+## Technology and References
+
+Technology used in the process of this challenge:
+* MacBook Pro 2017
+* VS Code
+* GitHub
+* YouTube
+* w3schools
+* bootcampspot
+
 
 ## Contributors
 
-* Jordon Luo <jordonluo00@gmail.com>
+* Jordon Luo <https://www.linkedin.com/in/jordonluo/>
 
 ## License & Copyright
 
